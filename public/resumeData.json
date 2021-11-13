@@ -1,0 +1,260 @@
+{
+  "main": {
+    "name": "Vineet Kumar",
+    "occupation": "ReactJS Developer && Flutter Developer",
+    "description": "Full Stack React Developer by Day, Innovative && Freelancer by Night",
+    "image": "vin.png",
+    "bio": "My name is Vineet, I Love coding because with just a few lines of code I can turn my ideas into reality, which potentially can impact the world and shape the future.",
+    "bio1": " I am currently studying at the Indian Institute Of Information Technology, Lucknow in India for my Bachelor's Degree in Computer Science.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vk.ind004@gmail.com",
+
+    "address": {
+      "street": "IIIT Lucknow",
+      "city": "India",
+      "state": "UP"
+      
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Vineet_ok",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vineet-kumar-a67792197/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "Blogs",
+        "url": "https://vk-blog.netlify.app/",
+        "className": "fa fa-rss"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sylvester-dev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some details about my Education and Technical background.",
+    "education": [
+      {
+        "school": "IIIT Lucknow",
+        "degree": "B.tech in Computer Science",
+        "graduated": "2019 - ongoing",
+        "description": "Persuing my graduation"
+      },
+      {
+        "school": "St. Joseph's school",
+        "degree": "",
+        "graduated": "2004 - 2018",
+        "description": "★ Made a continuous streak of keeping 100% attendence record during 14 years of my school life."
+      }
+    ],
+
+
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "HTML/CSS/JS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "heroku",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Blockchain",
+        "level": "70%"
+      },
+      {
+        "name": "Flutter",
+        "level": "70%"
+      },
+      {
+        "name": "Photography",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-Tracker",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "covid_de.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJs and Firebase",
+        "image": "amazon-clone.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "BlackJack game",
+        "category": "Build with HTML/CSS and JS",
+        "image": "blackjack.jpg",
+        "url": "https://github.com/Sylvester-dev/BlackJack-card-game"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Search Clone built with ReactJS and Google API",
+        "image": "google.jpg",
+        "url": "https://github.com/Sylvester-dev/Google-clone"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS and TMDb API",
+        "image": "netflix-clone.jpeg",
+        "url": "https://github.com/Sylvester-dev/Netflix-clone"
+      },
+      {
+        "title": "Simon Game",
+        "category": "A fun memory Game made with HTML/CSS and JS",
+        "image": "simon-game.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Air board",
+        "category": "Draw your imagination on Air made with opencv and python.",
+        "image": "opencv_air.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Assemble",
+        "category": "A full stack social media platform used MERN stack",
+        "image": "assemble.jpg",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Doc to word",
+        "category": "Covert typed sentence into handwritten writing used p5.js",
+        "image": "d2w.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Student App",
+        "category": "A student helping app for our college students made with Flutter and Firebase",
+        "image": "studweb.jpg",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Pokemon App",
+        "category": "A Pokedex made with flutter and API",
+        "image": "pokemon app.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Bitcoin Converter",
+        "category": "Covert real time value of different crypto currency into INR/USD...",
+        "image": "bitcoin.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Khazana",
+        "category": "Showcase the world your talent made with help of Blockchain and React",
+        "image": "khazana.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Sahayak",
+        "category": "A Blockchain web app to help students in councelling at covid times",
+        "image": "sahayak.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "A whatsapp like messaging app used MongoDb as a realtime database.",
+        "image": "whatsapp.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "BMI calculator",
+        "category": "A simple and great UI BMI calculator app",
+        "image": "bmi.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Chat app",
+        "category": "Meet everyone online at a single place made with Flutter and Firebase",
+        "image": "chat.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Weather App",
+        "category": "Weather app with great UI made with Flutter and openweather API",
+        "image": "clima weather.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Quiz app",
+        "category": "A quiz conducting app with Timer and Final Score",
+        "image": "quiz.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Health and Fitness App",
+        "category": "A fitness app with timer and alarm.",
+        "image": "fitness.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Ghar",
+        "category": "A blockchain web app to keep your assets safe.",
+        "image": "ghar.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Magic 8 ball app",
+        "category": "Know your future with magic 8 ball.",
+        "image": "magic 8 ball.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Rentz app",
+        "category": "A complete Rental app with integrated real time Map. Made with Flutter, MERN, API",
+        "image": "rentz.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      },
+      {
+        "title": "Xylophone",
+        "category": "A fun xylophone app",
+        "image": "xylophone.png",
+        "url": "https://github.com/Sylvester-dev/Simon-game"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A person like you always stands behind the team in good as well as the hard times. You helped us in reaching our target work, we are fortunate to have you on our team. You and your work always stood by the expectations and has a meaningful contribution.",
+        "user": "Akshit Trikha, Team-Leader"
+      },
+      {
+        "text": "Vineet is an excellent team worker. We have worked in same team for HackGujarat competition. He not only has great dedication for his work but also motivate and help others.",
+        "user": "Hritwik Tripathi"
+      }
+    ]
+  }
+}
