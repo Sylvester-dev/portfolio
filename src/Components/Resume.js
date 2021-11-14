@@ -22,6 +22,12 @@ class Resume extends Component {
       //       <p>{achievements.description}</p>
       //   </div>
       // })
+      var responsibilities= this.props.data.responsibilities.map(function(responsibilities){
+        return <div key={responsibilities.title}>
+            <p style={{margin:"0px 0px 0px 0px"}}>{responsibilities.title}</p>
+            &ensp;<span>&bull;</span> <em className="date">{responsibilities.years}</em>
+        </div>
+      })
       // var responsibilities= this.props.data.responsibilities.map(function(responsibilities){
       //   return <div key={responsibilities.company}><h3>{responsibilities.company}</h3>
       //       <p className="info">{responsibilities.title}<span>&bull;</span> <em className="date">{responsibilities.years}</em></p>
@@ -71,18 +77,18 @@ class Resume extends Component {
          <div className="nine columns main-col">
           {achievements}
         </div>
-    </div>
+    </div>*/}
 
     <div className="row work">
 
          <div className="three columns header-col">
-            <h1><span>Responsibilities</span></h1>
+            <h1><span>Experience</span></h1>
          </div>
 
          <div className="nine columns main-col">
           {responsibilities}
         </div>
-    </div> */}
+    </div> 
 
 
 

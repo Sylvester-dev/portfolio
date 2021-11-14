@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Vineet Kumar",
-    "occupation": "ReactJS Developer && Flutter Developer",
-    "description": "Full Stack React Developer by Day, Innovative && Freelancer by Night",
+    "occupation": "Web and mobile developer specializing in cross-platform, cloud-enabled, and Web3 application development",
+    "description": "Developer by Day, Innovative && Freelancer by Night",
     "image": "vin.png",
     "bio": "My name is Vineet, I Love coding because with just a few lines of code I can turn my ideas into reality, which potentially can impact the world and shape the future.",
     "bio1": " I am currently studying at the Indian Institute Of Information Technology, Lucknow in India for my Bachelor's Degree in Computer Science.",
@@ -47,7 +47,7 @@
         "school": "IIIT Lucknow",
         "degree": "B.tech in Computer Science",
         "graduated": "2019 - ongoing",
-        "description": "Persuing my graduation"
+        "description": "★ Hackathon X3 🏆"
       },
       {
         "school": "St. Joseph's school",
@@ -57,42 +57,48 @@
       }
     ],
 
+    "responsibilities":[
+      {
+        "title":" 🚀 Core Member Google Developer Student club",
+        "years":"2020-Present"
+      },
+      {
+        "title":"🚀 Microsoft Learn Student Ambassador",
+        "years":"2021-Present"
+      },
+      {
+        "title":"🚀 Lead Web Developer at Ecell IIITL",
+        "years":"2020-Present"
+      },
+      {
+        "title":"🚀 Flutter Developer at Axios IIITL",
+        "years":"2020-2021"
+      }
+    ],
 
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "60%"
-      },
-      {
-        "name": "HTML/CSS/JS",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "95%"
-      },
-      {
-        "name": "Figma",
-        "level": "55%"
-      },
-      {
-        "name": "heroku",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Full Stack Web Development [MERN]",
+        "level": "70%"
       },
       {
         "name": "Blockchain",
+        "level": "50%"
+      },
+      {
+        "name": "Cross-Platform App development with Flutter",
         "level": "70%"
       },
       {
-        "name": "Flutter",
-        "level": "70%"
+        "name": "Figma/Adobe",
+        "level": "80%"
       },
       {
-        "name": "Photography",
+        "name": "Git/Github",
+        "level": "90%"
+      },
+      {
+        "name": "Docker/Azure/Heroku",
         "level": "80%"
       }
     ]
@@ -248,12 +254,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "A person like you always stands behind the team in good as well as the hard times. You helped us in reaching our target work, we are fortunate to have you on our team. You and your work always stood by the expectations and has a meaningful contribution.",
-        "user": "Akshit Trikha, Team-Leader"
+        "text": "As a team member, you never fail to stand behind the team in good times and in difficult ones. With you on our team, we were able to reach our goals. It has always been a pleasure to work with you and be able to contribute in a meaningful way.",
+        "user": ""
       },
       {
-        "text": "Vineet is an excellent team worker. We have worked in same team for HackGujarat competition. He not only has great dedication for his work but also motivate and help others.",
-        "user": "Hritwik Tripathi"
+        "text": "Vineet is a great team player. I worked with him in the Hack Gujarat competition. Besides his dedication to his work, he also motivates and helps others.",
+        "user": ""
       }
     ]
   }
