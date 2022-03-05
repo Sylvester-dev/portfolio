@@ -47,7 +47,7 @@
         "school": "IIIT Lucknow",
         "degree": "B.tech in Computer Science",
         "graduated": "2019 - ongoing",
-        "description": "★ Hackathon X3 🏆"
+        "description": "★ Hackathon X5 🏆"
       },
       {
         "school": "St. Joseph's school",
@@ -105,6 +105,60 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "BugMEE",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "bugmee.png",
+        "url": "https://github.com/Sylvester-dev/bugMEE"
+      },
+      {
+        "title": "NFT_Game",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "nft_game.jpg",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "Q_DAO",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "q_dao.jpg",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "Ens.flappy",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "flappy.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "breezer",
+        "category": "mint and buy IOTEX based ERC721 implemented breeze NFTs and manage them.",
+        "image": "breezer.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "OpenMarket",
+        "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
+        "image": "covid_de.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "Seamless",
+        "category": "Multiple party agreement using NFTs and community voting",
+        "image": "covid_de.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "Crypto-Imposter",
+        "category": "Multiple party agreement using NFTs and community voting",
+        "image": "imposter.jpeg",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "title": "GPT-3",
+        "category": "Multiple party agreement using NFTs and community voting",
+        "image": "covid_de.png",
+        "url": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
       {
         "title": "Covid-Tracker",
         "category": "Covid tracker made with ReactJS, disease.sh API, react chart and leaflet",
